@@ -10,3 +10,7 @@ es decir jpg a label o contenedores en java.
 <br>
 
 **Ideal para utilizarlas en app modernas para y una mejor experiencia para el usuario.**
+
+
+<BR>**Autor: jorginho Ojeda**<BR>
+**Licence. 2019**
